@@ -1,7 +1,8 @@
 Hello
-Hai
 Xin chào
 bye
 8888888
-
-
+Xin chào
+bye
+8888888
+4:33
