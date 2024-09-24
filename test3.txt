@@ -1,4 +1,6 @@
 22222
 Hello
-xin chào
-bye
+
+Hello
+Hai
+
