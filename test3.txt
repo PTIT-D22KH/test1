@@ -2,3 +2,5 @@ Hello
 Xin chào
 bye
 8888888
+xin chào
+12345
