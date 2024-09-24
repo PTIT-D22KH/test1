@@ -1,11 +1,7 @@
 Hello
-<<<<<<< HEAD
 Hai
 Xin chào
 bye
 8888888
-=======
-xin chào
-bye
-12345
->>>>>>> c40987d (sua test3.txt)
+
+
